@@ -11,5 +11,10 @@
         "maxAds": 100,
         "adInterval": 0
     },
-    "preload": false
+    "preload": false,
+    "css": {
+        ".video-item": {
+            "items_per_page": "3"
+        }
+    }
 }
