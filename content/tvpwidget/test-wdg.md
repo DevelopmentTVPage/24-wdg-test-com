@@ -18,7 +18,13 @@
             "video_item_display_amount": "2"
         },
         ".widget-title": {
-            "widget_title_display": "none"
+            "widget_title_display": "block"
+        },
+        ".slick-dots li button": {
+            "carousel_dot_display": "block"
+        },
+        ".carousel-arrow": {
+            "carousel_arrow_display": "none"
         }
     }
 }
