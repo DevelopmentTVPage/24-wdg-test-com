@@ -15,7 +15,7 @@
     "css": {
         ".video-item": {
             "items_per_page": "3",
-            "video_item_display_amount": "4"
+            "video_item_display_amount": "2"
         },
         ".widget-title": {
             "widget_title_display": "none"
