@@ -16,6 +16,9 @@
         ".video-item": {
             "items_per_page": "3",
             "video_item_display_amount": "4"
+        },
+        ".widget-title": {
+            "widget_title_display": "none"
         }
     }
 }
