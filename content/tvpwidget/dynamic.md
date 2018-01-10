@@ -11,5 +11,10 @@
         "maxAds": 100,
         "adInterval": 0
     },
-    "preload": false
+    "preload": false,
+    "css": {
+        ".widget-title": {
+            "widget_title_display": "none"
+        }
+    }
 }
