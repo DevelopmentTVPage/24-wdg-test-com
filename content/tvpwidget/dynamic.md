@@ -15,13 +15,20 @@
     "css": {
         ".widget-title": {
             "widget_title_display": "block",
-            "widget_title_font_size": "20px"
+            "widget_title_font_size": "20px",
+            "widget_title_text_align": "center"
         },
         ".carousel-arrow": {
             "carousel_arrow_display": "none"
         },
         ".slick-dots li button": {
             "carousel_dot_display": "none"
+        },
+        ".video-item": {
+            "video_item_display_amount": "3"
+        },
+        ".widget-body": {
+            "body_font_family": "Open Sans"
         }
     }
 }
