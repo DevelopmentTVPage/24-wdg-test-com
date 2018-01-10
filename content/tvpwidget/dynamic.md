@@ -25,7 +25,7 @@
             "carousel_dot_display": "none"
         },
         ".video-item": {
-            "video_item_display_amount": "3"
+            "video_item_display_amount": "2"
         },
         ".widget-body": {
             "body_font_family": "Open Sans"
