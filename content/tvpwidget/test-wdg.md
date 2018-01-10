@@ -15,7 +15,7 @@
     "css": {
         ".video-item": {
             "items_per_page": "3",
-            "video_item_display_amount": "2"
+            "video_item_display_amount": "3"
         },
         ".widget-title": {
             "widget_title_display": "none"
@@ -24,7 +24,7 @@
             "carousel_dot_display": "block"
         },
         ".carousel-arrow": {
-            "carousel_arrow_display": "none"
+            "carousel_arrow_display": "block"
         }
     }
 }
