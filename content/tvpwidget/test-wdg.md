@@ -14,7 +14,8 @@
     "preload": false,
     "css": {
         ".video-item": {
-            "items_per_page": "3"
+            "items_per_page": "3",
+            "video_item_display_amount": "4"
         }
     }
 }
