@@ -14,7 +14,8 @@
     "preload": false,
     "css": {
         ".widget-title": {
-            "widget_title_display": "none"
+            "widget_title_display": "block",
+            "widget_title_font_size": "20px"
         },
         ".carousel-arrow": {
             "carousel_arrow_display": "none"
