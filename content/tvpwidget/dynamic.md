@@ -22,7 +22,7 @@
             "carousel_arrow_display": "none"
         },
         ".slick-dots li button": {
-            "carousel_dot_display": "none"
+            "carousel_dot_display": "block"
         },
         ".video-item": {
             "video_item_display_amount": "2"
