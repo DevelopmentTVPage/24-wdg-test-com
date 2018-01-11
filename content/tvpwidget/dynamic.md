@@ -19,7 +19,7 @@
             "widget_title_text_align": "center"
         },
         ".carousel-arrow": {
-            "carousel_arrow_display": "none"
+            "carousel_arrow_display": "block"
         },
         ".slick-dots li button": {
             "carousel_dot_display": "block"
